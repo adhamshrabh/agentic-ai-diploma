@@ -1,3 +1,5 @@
 .env
 .venv/
 __pycache__/
+*.zip
+!session-01-submission.zip
